@@ -1,3 +1,4 @@
+sayHiToGrandma("I love you, Grandma.");
 function shout(string) {
   return string.toUpperCase()
 }
